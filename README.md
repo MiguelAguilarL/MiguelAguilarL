@@ -33,15 +33,6 @@ Soy un estudiante de Ingeniería en Sistemas apasionado por el desarrollo de sof
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver un poco de mi actividad reciente:
-
-![Estadísticas de Miguel](https://github-readme-stats.vercel.app/api?username=MiguelAguilarL&show_icons=true&theme=tokyonight&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAguilarL&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Conéctate conmigo
 
 ¿Tienes algún proyecto en mente o simplemente quieres charlar sobre tecnología o música?
