@@ -58,9 +58,6 @@ Aparte del mundo de la programación, me interesa mucho la música y el aprendiz
 
 ---
 
-### Estadísticas de GitHub
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=miguelaguilarl&show_icons=true&theme=radical)
-
 ### Contacto
 
 - Correo electrónico: mikeal2123495@gmail.com
