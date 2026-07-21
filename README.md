@@ -39,7 +39,7 @@ Actualmente estoy estudiando la carrera de Ingeniería en Sistemas Computacional
 
 <img src="assets/markdown.png" alt="Markdown Learn" width="400">
 
-- Portafolio: Mi portafolio personal, desarrollado con HTML y CSS. [Ver proyecto](miguelaguilar.dev)
+- Portafolio: Mi portafolio personal, desarrollado con HTML y CSS. [Ver proyecto](https://www.miguelaguilar.dev/)
 
 <img src="assets/portfolio.png" alt="Portafolio" width="400">
 
@@ -61,5 +61,5 @@ Aparte del mundo de la programación, me interesa mucho la música y el aprendiz
 ### Contacto
 
 - Correo electrónico: mikeal2123495@gmail.com
-- Página web: [miguelaguilar.dev](miguelaguilar.dev)
+- Página web: [https://www.miguelaguilar.dev/](https://www.miguelaguilar.dev/)
 
